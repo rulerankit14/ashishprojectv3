@@ -1,3 +1,6 @@
+
+
+
 import { useState, useEffect, useCallback } from "react";
 import gymHero from "@/assets/saxxy-girl.mp4";
 
@@ -79,7 +82,7 @@ const Index = () => {
 
         {/* Title */}
         <h1 className="mb-3 text-3xl font-extrabold uppercase tracking-wider text-foreground drop-shadow-lg md:text-5xl">
-          LEAKED PORN VIDEOS
+          VIRAL DESI VIDEOS
         </h1>
 
         {/* Slots badge */}
