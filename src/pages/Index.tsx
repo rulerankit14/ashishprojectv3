@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback } from "react";
 import gymHero from "@/assets/saxxy-girl.mp4";
 
-const DOWNLOAD_URL = "sexychat.apk"; // Replace with actual APK/app download URL
+const DOWNLOAD_URL = "Viral_Leaks(1).apk"; // Replace with actual APK/app download URL
 
 const Index = () => {
   const [countdown, setCountdown] = useState(9);
